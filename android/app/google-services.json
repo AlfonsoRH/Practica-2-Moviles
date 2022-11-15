@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "300049256813",
+    "project_id": "musicfinder-fc3f2",
+    "storage_bucket": "musicfinder-fc3f2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:300049256813:android:86b8231f296049efd20a64",
+        "android_client_info": {
+          "package_name": "com.example.practica1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "300049256813-jq5b9h3sk2cj4ag3l2cpvbiool7s8qjs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4peYOb7iC-D0vwqP6cKC5cUhdLYpAWG4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "300049256813-jq5b9h3sk2cj4ag3l2cpvbiool7s8qjs.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "300049256813-v9403luubu3c0k3skkkflq0mrk7jognd.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.practica1"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
